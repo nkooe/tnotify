@@ -1,0 +1,9 @@
+id=WxNotify
+name=微x通知
+version=v8.2
+versionCode=62
+author=fj
+description=微信 / 支付宝 通知增强
+minApiVersion=101
+targetApiVersion=102
+staticScope=false
